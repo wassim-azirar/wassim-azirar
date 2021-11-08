@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-#### Cloud
+#### ☁️ Cloud ☁️
 
 <p float="left">
   <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white" />

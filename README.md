@@ -4,6 +4,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim-azirar&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" height="180em" />
 </p>
 <p>
+  <img src="https://github-readme-stats.thecesrom.vercel.app/api/wakatime?username=@wassim_azirar&layout=compact&theme=react" height="180em" />
+</p>
+<p>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=wassim-azirar&date_format=n%2Fj%5B%2FY%5D&theme=blueberry" height="180em" />
 </p>
 

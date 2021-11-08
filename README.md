@@ -3,20 +3,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim-azirar&layout=compact&theme=blueberry&count_private=true&langs_count=10" height="185em" /> 
 </div>
 
-<details>
-<summary>📈 WakaTime </summary>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wassim_azirar&layout=compact&theme=blueberry" />
-</p>
-</details>
-
-<details>
-<summary>👨‍💻 Contributions</summary>
-<p>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=wassim-azirar&date_format=n%2Fj%5B%2FY%5D&theme=blueberry" />
-</p>
-</details>
-
 #### Backend
 
 <p float="left">
@@ -70,3 +56,17 @@
   <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase" />
 </p>
+
+<details>
+<summary>📈 WakaTime </summary>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wassim_azirar&layout=compact&theme=blueberry" />
+</p>
+</details>
+
+<details>
+<summary>👨‍💻 Contributions</summary>
+<p>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=wassim-azirar&date_format=n%2Fj%5B%2FY%5D&theme=blueberry" />
+</p>
+</details>

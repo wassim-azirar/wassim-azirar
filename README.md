@@ -1,6 +1,6 @@
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=wassim-azirar&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true" height="200em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim-azirar&layout=compact&theme=blueberry&count_private=true&langs_count=10" height="200em" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=wassim-azirar&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true" height="185em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim-azirar&layout=compact&theme=blueberry&count_private=true&langs_count=10" height="185em" /> 
 </div>
 
 <details>

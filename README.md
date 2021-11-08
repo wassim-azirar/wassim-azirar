@@ -1,7 +1,10 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=wassim-azirar&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true" height="180em"/>
 &nbsp
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim-azirar&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim-azirar&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" height="180em" />
+</p>
+<p>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=wassim-azirar&date_format=n%2Fj%5B%2FY%5D&theme=blueberry" height="180em" />
 </p>
 
 #### Backend
@@ -60,3 +63,12 @@
   <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase" />
 </p>
+
+### 📫 How to reach me
+
+[![Mail Badge](https://img.shields.io/badge/-a--knv@mail.ru-c14438?style=flat&logo=Mail.Ru&logoColor=white&link=mailto:a-knv@mail.ru)](mailto:a-knv@mail.ru)
+[![Github Badge](https://img.shields.io/badge/-a--kozhanov-grey?style=flat&logo=github&logoColor=white&link=https://github.com/a-kozhanov/)](https://gitstats.me/a-kozhanov)
+[![Telegram Badge](https://img.shields.io/badge/-a__knv-grey?style=flat&logo=telegram&logoColor=white&link=https://t.me/a_knv)](https://t.me/a_knv)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akozhanov/)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=Codewars&logoColor=white)](https://www.codewars.com/users/a.kozhanov)
+[![Career Habr](https://img.shields.io/badge/Career%20Habr-629fbc?style=flat&logo=Habr&logoColor=white)](https://career.habr.com/a-knv)

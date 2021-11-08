@@ -1,12 +1,21 @@
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=wassim-azirar&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true" height="180em"/>
-&nbsp
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim-azirar&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wassim-azirar&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true" height="200em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim-azirar&layout=compact&theme=blueberry&count_private=true&langs_count=10" height="200em" /> 
 </div>
-<div>
-  <img src="https://github-readme-stats.thecesrom.vercel.app/api/wakatime?username=@wassim_azirar&layout=compact&theme=react" height="180em" />&nbsp
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=wassim-azirar&date_format=n%2Fj%5B%2FY%5D&theme=blueberry" height="180em" />
-</div>
+
+<details>
+<summary>📈 WakaTime </summary>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wassim_azirar&layout=compact&theme=blueberry" />
+</p>
+</details>
+
+<details>
+<summary>👨‍💻 Contributions</summary>
+<p>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=wassim-azirar&date_format=n%2Fj%5B%2FY%5D&theme=blueberry" />
+</p>
+</details>
 
 #### Backend
 

@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/fastapi%20-%2313988a.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### Frontend
+### 🖥️ Frontend 🖥️
 
 <p float="left">
   <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />

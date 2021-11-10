@@ -12,15 +12,6 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### 🗺 API 🗺
-
-<p float="left">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/fastapi%20-%2313988a.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
 ### 🖥️ Frontend 🖥️
 
 <p float="left">
@@ -29,6 +20,15 @@
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+### 🗺 API 🗺
+
+<p float="left">
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/fastapi%20-%2313988a.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ### ☁️ Cloud ☁️

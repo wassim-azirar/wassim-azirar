@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim-azirar&layout=compact&theme=blueberry&cache_seconds=1800&count_private=true&langs_count=6" height="175em" /> 
 </div>
 
-### Backend
+### 🔚 Backend 🔚
 
 <p float="left">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />

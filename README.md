@@ -63,10 +63,3 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wassim_azirar&layout=compact&theme=blueberry" />
 </p>
 </details>
-
-<details>
-<summary>👨‍💻 Contributions</summary>
-<p>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=wassim-azirar&date_format=n%2Fj%5B%2FY%5D&theme=blueberry" />
-</p>
-</details>

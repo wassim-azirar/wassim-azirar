@@ -1,8 +1,3 @@
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim-azirar&layout=compact&theme=blueberry&cache_seconds=1800&count_private=true&langs_count=6" height="175em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=wassim-azirar&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true" height="175em" />
-</div>
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wassim_azirar&layout=compact&theme=blueberry" />
 </p>
@@ -60,3 +55,8 @@
   <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase" />
 </p>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim-azirar&layout=compact&theme=blueberry&cache_seconds=1800&count_private=true&langs_count=6" height="175em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wassim-azirar&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true" height="175em" />
+</div>

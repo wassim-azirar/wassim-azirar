@@ -1,5 +1,5 @@
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wassim_azirar&layout=compact&theme=blueberry" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wassim_azirar&layout=compact&theme=slateorange" />
 </p>
 
 ### 🔚 Backend 🔚

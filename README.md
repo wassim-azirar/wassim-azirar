@@ -1,6 +1,6 @@
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim-azirar&layout=compact&theme=blueberry&cache_seconds=1800&count_private=true&langs_count=6" height="175em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=wassim-azirar&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true" height="175em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim-azirar&hide_border=true&cache_seconds=1800&theme=blueberry&langs_count=6&layout=compact&count_private=true" height="175em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wassim-azirar&hide_border=true&cache_seconds=1800&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true" height="175em" />
 </div>
 
 ### 🔚 Backend 🔚
@@ -58,5 +58,5 @@
 </p>
 
  <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wassim_azirar&layout=compact&theme=slateorange" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wassim_azirar&layout=compact&langs_count=10&theme=slateorange&hide_border=true&cache_seconds=1800" />
 </p>

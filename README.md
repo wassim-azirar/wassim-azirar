@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
-### Databases
+### 📈 Databases 📈
 
 <p float="left">
   <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />

@@ -56,7 +56,3 @@
   <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase" />
 </p>
-
- <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wassim_azirar&layout=compact&langs_count=10&theme=slateorange&hide_border=true&cache_seconds=1800" />
-</p>

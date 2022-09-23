@@ -1,3 +1,6 @@
+### 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wassimazirar) [![StackOverflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/346297/wassim-azirar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/wassim_azirar) 
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim-azirar&hide_border=true&cache_seconds=1800&theme=blueberry&langs_count=6&layout=compact&count_private=true" height="175em" />
   <img src="https://github-readme-stats.vercel.app/api?username=wassim-azirar&hide_border=true&cache_seconds=1800&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true" height="175em" />
